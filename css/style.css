@@ -8,3 +8,15 @@
 .intro * {
   padding: 10px 10px;
 }
+
+.main-content, .left-nav{
+  margin-top:20px;
+}
+
+.left-nav a {
+  color: black;
+}
+.left-nav a:hover {
+  color: rgba(0,200,100);
+  background-color: black;
+}
