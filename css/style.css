@@ -1,0 +1,9 @@
+.portfolio, .about {
+  padding-top:80px;
+}
+.intro {
+  background-color: rgba(0,200,100,.4);
+}
+.intro * {
+  padding: 10px 10px;
+}
